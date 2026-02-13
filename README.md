@@ -2,7 +2,7 @@
 
 A simple Python program that calculates the total investment value of stocks based on user input and predefined stock prices.
 
-# Project Description #
+### Project Description ###
 
 This program allows users to:
 
@@ -16,7 +16,7 @@ Optionally save the investment summary to a .txt file
 
 The stock prices are stored in a predefined dictionary inside the program.
 
-# Technologies Used #
+### Technologies Used ###
 
 Python
 
@@ -28,7 +28,7 @@ Basic Arithmetic
 
 File Handling (Optional)
 
-# How It Works #
+### How It Works ###
 
 The program displays available stocks.
 
