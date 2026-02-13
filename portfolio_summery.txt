@@ -1,0 +1,5 @@
+Stock Portfolio Summery
+AMZN - 12 shares x Rs.130 = Rs.1560
+AAPL - 13 shares x Rs.180 = Rs.2340
+
+ Total investment: Rs.3900
